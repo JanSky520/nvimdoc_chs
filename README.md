@@ -4,7 +4,7 @@
 + 如需快速上手 neovim 可在 normal 模式下输入 :Tutor 进行一个30分钟的实践教程。
 
 # neovim 的第一步
-+ 要启动 neovim，请在终端中输入以下命令：
++ 要启动 neovim，请在终端中输入命令：
   ```fish
    nvim file.txt    #file.txt 可替换成你想打开或创建的任意文件名（文件不存在时会自动创建），注意文件的扩展名。
   ```
